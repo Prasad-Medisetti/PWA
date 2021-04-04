@@ -19,6 +19,7 @@ nav a span {
 }
 nav .sidenav-trigger {
 	margin: 0;
+	cursor: pointer;
 }
 
 /* recipe styles */
@@ -47,6 +48,7 @@ nav .sidenav-trigger {
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
+	cursor: pointer;
 }
 .recipe-delete i {
 	font-size: 18px;
